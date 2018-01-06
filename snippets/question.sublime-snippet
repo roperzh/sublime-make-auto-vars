@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[\$?]]></content>
+  <tabTrigger>av?</tabTrigger>
+  <scope>source.makefile</scope>
+  <description>prerequisites newer than the target</description>
+</snippet>

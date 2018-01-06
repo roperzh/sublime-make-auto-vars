@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[\$@]]></content>
+  <tabTrigger>av@</tabTrigger>
+  <scope>source.makefile</scope>
+  <description>file name of the target</description>
+</snippet>

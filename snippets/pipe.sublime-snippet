@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[\$|]]></content>
+  <tabTrigger>av|</tabTrigger>
+  <scope>source.makefile</scope>
+  <description>names of all the order-only prerequisites</description>
+</snippet>
